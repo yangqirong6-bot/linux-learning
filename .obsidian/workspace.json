@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-file-system/README.md",
+                "file": "01-cli-basics/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,11 +185,13 @@
   },
   "active": "4cc36c5ff8bb3ed8",
   "lastOpenFiles": [
-    "01-cli-basics/README.md.tmp.40956.52e6fef46b9d",
+    "03-text-processing/README.md.tmp.40956.aa5dddc9563e",
+    "02-file-system/README.md.tmp.40956.6b5672b4e3b9",
+    "01-cli-basics/cheatsheet.md",
     "02-file-system/cheatsheet.md",
-    "02-file-system/README.md",
     "01-cli-basics/README.md",
-    "README.md.tmp.40956.f9f000a642a6",
-    "01-cli-basics/cheatsheet.md"
+    "02-file-system/README.md",
+    "01-cli-basics/README.md.tmp.40956.52e6fef46b9d",
+    "README.md.tmp.40956.f9f000a642a6"
   ]
 }
