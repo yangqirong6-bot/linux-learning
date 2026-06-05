@@ -10,23 +10,23 @@
 | `cd -` | 回上次目录 / previous dir |
 
 ## 文件操作 / File Ops
-| 命令 | 说明 |
-|------|------|
-| `touch <file>` | 创建空文件 / create empty |
-| `mkdir -p <a/b/c>` | 递归建目录 / nested mkdir |
-| `cp -r <src> <dst>` | 递归复制 / copy recursively |
-| `mv <src> <dst>` | 移动/重命名 / move or rename |
-| `rm <file>` | 删除文件（不可恢复）/ delete (permanent) |
-| `rm -r <dir>` | 递归删除 / recursive delete |
+| 命令                  | 说明                                 |     |
+| ------------------- | ---------------------------------- | --- |
+| `touch <file>`      | 创建空文件 / create empty               |     |
+| `mkdir -p <a/b/c>`  | 递归建目录 / nested mkdir               |     |
+| `cp -r <src> <dst>` | 递归复制 / copy recursively            |     |
+| `mv <src> <dst>`    | 移动/重命名 / move or rename            |     |
+| `rm <file>`         | 删除**文件**（不可恢复）/ delete (permanent) |     |
+| `rm -r <dir>`       | 递归删除 / recursive delete            |     |
 
 ## 查看文件 / Viewing
-| 命令 | 说明 |
-|------|------|
-| `cat <file>` | 输出全部 / print all |
-| `less <file>` | 分页 / page through |
+| 命令                 | 说明                    |
+| ------------------ | --------------------- |
+| `cat <file>`       | 输出全部 / print all      |
+| `less <file>`      | 分页 / page through     |
 | `head -n N <file>` | 前 N 行 / first N lines |
-| `tail -n N <file>` | 后 N 行 / last N lines |
-| `tail -f <file>` | 实时跟踪 / follow live |
+| `tail -n N <file>` | 后 N 行 / last N lines  |
+| `tail -f <file>`   | 实时跟踪 / follow live    |
 
 ## 管道与重定向 / Pipe & Redirect
 | 符号 | 说明 |

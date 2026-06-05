@@ -29,13 +29,13 @@ bash scripts/setup-lab.sh
 | 01 | [[01-cli-basics/README\|CLI 基础与 Shell 入门]] | Shell、快捷键、命令结构、man/help | ✅ |
 | 02 | [[02-file-system/README\|文件系统与路径]] | 目录结构、文件类型、挂载、inode、链接 | ✅ |
 | 03 | [[03-text-processing/README\|文本处理三剑客]] | grep、sed、awk、正则表达式、vim 基础 | ✅ |
-| 04 | [[04-users-permissions/README\|用户与权限]] | UID/GID、文件权限、sudo、ACL、suid | 🚧 |
-| 05 | [[05-processes/README\|进程管理]] | ps/top/htop、信号、作业控制、nice、cgroups | 🚧 |
-| 06 | [[06-shell-scripting/README\|Shell 脚本编程]] | 变量、条件、循环、函数、调试、常见陷阱 | 🚧 |
-| 07 | [[07-systemd-services/README\|Systemd 与服务管理]] | unit 文件、journalctl、timer、target、日志 | 🚧 |
-| 08 | [[08-networking/README\|网络基础与服务]] | TCP/IP、ss/ip/curl、防火墙、SSH、nginx 入门 | 🚧 |
-| 09 | [[09-security/README\|安全加固]] | 更新策略、fail2ban、密钥管理、审计、SELinux | 🚧 |
-| 10 | [[10-kernel-performance/README\|内核与性能调优]] | /proc、strace、perf、内存管理、eBPF 入门 | 🚧 |
+| 04 | [[04-users-permissions/README\|用户与权限]] | UID/GID、文件权限、sudo、ACL、suid | ✅ |
+| 05 | [[05-processes/README\|进程管理]] | ps/top/htop、信号、作业控制、nice、cgroups | ✅ |
+| 06 | [[06-shell-scripting/README\|Shell 脚本编程]] | 变量、条件、循环、函数、调试、常见陷阱 | ✅ |
+| 07 | [[07-systemd-services/README\|Systemd 与服务管理]] | unit 文件、journalctl、timer、target、日志 | ✅ |
+| 08 | [[08-networking/README\|网络基础与服务]] | TCP/IP、ss/ip/curl、防火墙、SSH、nginx 入门 | ✅ |
+| 09 | [[09-security/README\|安全加固]] | 更新策略、fail2ban、密钥管理、审计、SELinux | ✅ |
+| 10 | [[10-kernel-performance/README\|内核与性能调优]] | /proc、strace、perf、内存管理、eBPF 入门 | ✅ |
 
 ---
 
